@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rikoouu-Assignmet-Client-/static/css/main.1f645756.css",
+    "main.js": "/Rikoouu-Assignmet-Client-/static/js/main.d8070428.js",
+    "static/js/787.a31955ff.chunk.js": "/Rikoouu-Assignmet-Client-/static/js/787.a31955ff.chunk.js",
+    "index.html": "/Rikoouu-Assignmet-Client-/index.html",
+    "main.1f645756.css.map": "/Rikoouu-Assignmet-Client-/static/css/main.1f645756.css.map",
+    "main.d8070428.js.map": "/Rikoouu-Assignmet-Client-/static/js/main.d8070428.js.map",
+    "787.a31955ff.chunk.js.map": "/Rikoouu-Assignmet-Client-/static/js/787.a31955ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f645756.css",
+    "static/js/main.d8070428.js"
+  ]
+}
